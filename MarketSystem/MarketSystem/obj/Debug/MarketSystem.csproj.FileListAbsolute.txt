@@ -1,0 +1,6 @@
+C:\Users\Ivan Kupranets\Documents\MarketSystem\MarketSystem\bin\Debug\MarketSystem.exe.config
+C:\Users\Ivan Kupranets\Documents\MarketSystem\MarketSystem\bin\Debug\MarketSystem.exe
+C:\Users\Ivan Kupranets\Documents\MarketSystem\MarketSystem\bin\Debug\MarketSystem.pdb
+C:\Users\Ivan Kupranets\Documents\MarketSystem\MarketSystem\obj\Debug\MarketSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ivan Kupranets\Documents\MarketSystem\MarketSystem\obj\Debug\MarketSystem.exe
+C:\Users\Ivan Kupranets\Documents\MarketSystem\MarketSystem\obj\Debug\MarketSystem.pdb
